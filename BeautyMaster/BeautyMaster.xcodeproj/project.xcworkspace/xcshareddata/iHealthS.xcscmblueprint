@@ -1,0 +1,37 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "25F5C20D6C829D2773B7E594FBDD463132DE379B",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "E16C5818FE53068B0686BE4C3E599A31A3B951F9" : 0,
+    "10265A38166A7EC22A3F739A581EC7FFEAC16E18" : 0,
+    "25F5C20D6C829D2773B7E594FBDD463132DE379B" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "2F5810F2-9C8E-4A1B-BF8C-C6123E5C5F0B",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "E16C5818FE53068B0686BE4C3E599A31A3B951F9" : "",
+    "10265A38166A7EC22A3F739A581EC7FFEAC16E18" : "Template\/",
+    "25F5C20D6C829D2773B7E594FBDD463132DE379B" : "ios-app-magazine\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "iHealthS",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "iHealthS.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "gitlab.com:whitelok\/ios-magazine.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "10265A38166A7EC22A3F739A581EC7FFEAC16E18"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/git.coding.net\/whitelok\/ios-app-magazine.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "25F5C20D6C829D2773B7E594FBDD463132DE379B"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "gitlab.com:whitelok\/app-framework-1-xcode-builder.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "E16C5818FE53068B0686BE4C3E599A31A3B951F9"
+    }
+  ]
+}
